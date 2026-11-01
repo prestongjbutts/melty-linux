@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Melty
+Exec=env WINEPREFIX="/home/preston/.wine" wine-stable C:\\\\users\\\\preston\\\\AppData\\\\Local\\\\Programs\\\\melty\\\\Melty.exe 
+Type=Application
+StartupNotify=true
+Path=/home/preston/.wine/dosdevices/c:/users/preston/AppData/Local/Programs/melty
+Icon=6ECB_Melty.0
+StartupWMClass=melty.exe
